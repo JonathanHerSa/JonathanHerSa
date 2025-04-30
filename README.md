@@ -7,6 +7,7 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=tailwindcss&logoColor=white)
 
 ## PERFIL TÉCNICO
 Desarrollador Full-Stack con 2 años de experiencia en desarrollo web con Laravel y Vue.js. Especializado en optimización de bases de datos MySQL, despliegue en GCP usando Docker/Kubernetes, y desarrollo de APIs RESTful. Experiencia implementando WebSockets para aplicaciones en tiempo real y arquitecturas MVC.
