@@ -2,7 +2,7 @@
 ## DESARROLLADOR FULL-STACK
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![NestJs](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=nestjs&logoColor=white)
+![NestJs](https://img.shields.io/badge/NestJs-8b1634?style=flat&logo=nestjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
